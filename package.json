@@ -1,0 +1,25 @@
+{
+  "name": "torn-bot",
+  "version": "1.0.0",
+  "description": "A simple torn discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarrke/torn-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tarrke/torn-bot/issues"
+  },
+  "homepage": "https://github.com/Tarrke/torn-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2"
+  }
+}
